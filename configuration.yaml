@@ -1,0 +1,8 @@
+homeassistant:
+  name: Home
+  latitude: 52.486881
+  longitude: 13.357180
+  elevation: 50
+  unit_system: metric
+  currency: EUR
+  time_zone: "Europe/Berlin"
